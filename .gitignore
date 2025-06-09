@@ -1,0 +1,25 @@
+# Entornos virtuales
+entorno/
+entorno_gpu/
+
+# Carpetas de caché de Python
+__pycache__/
+.pytest_cache/
+
+# Archivos de configuración de editores de código
+.vscode/
+.vs/
+
+# Carpetas de salida generadas por la aplicación
+Mapacalor/
+*Procesamiento*/
+
+# Carpetas con datos de video grandes o anexos
+Videostesis/
+test_data/
+Anexos/
+
+# Archivos de documentación temporal y modelos de IA
+DOCUMENTACION.txt
+Inicio cmd.txt
+*.pt

@@ -2,7 +2,7 @@ Analizador de Movimiento Docente en el Aula
 Este proyecto es una herramienta de software desarrollada en Python que utiliza visión por computadora e inteligencia artificial para analizar el movimiento y comportamiento de un docente a partir de una grabación de video de una clase. La aplicación procesa el video para extraer métricas detalladas y generar reportes visuales.
 
 Características Principales
-Detección y Segmentación de Personas: Utiliza un modelo de la familia YOLOv8 para identificar con precisión a todas las personas en el video, delineando sus siluetas.
+Detección y Segmentación de Personas: Utiliza un modelo de la familia YOLOv11 para identificar con precisión a todas las personas en el video, delineando sus siluetas.
 
 Estimación de Profundidad: Implementa el modelo Depth Anything para calcular la distancia relativa de las personas a la cámara, permitiendo un análisis en 3D del espacio.
 

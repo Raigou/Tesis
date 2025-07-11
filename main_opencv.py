@@ -1,4 +1,4 @@
-﻿# main_opencv.py (CORREGIDO - Numeración de Historial)
+# main_opencv.py (CORREGIDO - Numeración de Historial)
 import cv2
 import numpy as np
 import os
